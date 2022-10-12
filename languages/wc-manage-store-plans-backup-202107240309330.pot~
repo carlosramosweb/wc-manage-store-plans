@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Manage Store Plans for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-24 03:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: wc-manage-store-plans"
+
+#: wc-manage-store-plans.php:182
+msgid ""
+"<p>Hello, Store Manager.<br/> The limit of registered products has been "
+"reached and with that our system has erased the excess products!<br/><br/>"
+msgstr ""
+
+#: wc-manage-store-plans.php:191
+msgid ""
+"<strong>Important Alert:</strong> Limits of registered products have been "
+"reached and we have deleted the excess!"
+msgstr ""
+
+#: wc-manage-store-plans.php:714
+msgid "<strong>Minimum:</strong> 1000 views per month."
+msgstr ""
+
+#: wc-manage-store-plans.php:661
+msgid "<strong>Minimum:</strong> 25 products per store."
+msgstr ""
+
+#: wc-manage-store-plans.php:624
+msgid "<strong>Note:</strong> day, month and year."
+msgstr ""
+
+#: wc-manage-store-plans.php:799
+msgid ""
+"<strong>Note:</strong> Provide an email to the store manager to get their "
+"support when you need it."
+msgstr ""
+
+#: wc-manage-store-plans.php:778
+msgid ""
+"<strong>Note:</strong> Select an administrator who will have the permissions."
+msgstr ""
+
+#: wc-manage-store-plans.php:609
+msgid "Activate plugin"
+msgstr ""
+
+#: wc-manage-store-plans.php:333
+msgid "Alert to the Manager of this Store"
+msgstr ""
+
+#: wc-manage-store-plans.php:181
+msgid "Alert: Product registration limits reached!"
+msgstr ""
+
+#: wc-manage-store-plans.php:544
+msgid ""
+"Below you can configure the plugin by filling in the plan data for that "
+"store."
+msgstr ""
+
+#. Author of the plugin
+msgid "carlosramosweb"
+msgstr ""
+
+#: wc-manage-store-plans.php:375
+msgid "Close"
+msgstr ""
+
+#: wc-manage-store-plans.php:355
+msgid ""
+"Dear administrator, <strong>this store has reached its maximum views per "
+"month.</strong>"
+msgstr ""
+
+#: wc-manage-store-plans.php:554 wc-manage-store-plans.php:564
+msgid "Dismiss this notice."
+msgstr ""
+
+#: wc-manage-store-plans.php:603
+msgid "Enable"
+msgstr ""
+
+#: wc-manage-store-plans.php:561
+msgid "Error! We are unable to make the updates!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Esse plugin é uma versão BETA. Desenvolvido para administrar planos "
+"exclusivos de loja virtuais usando o CMS WordPress juntamente com o plugin "
+"WooCommerce. WordPress: https://br.wordpress.org/ - WooCommerce: https:"
+"//woocommerce.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://criacaocriativa.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/carlosramosweb/#content-plugins"
+msgstr ""
+
+#: wc-manage-store-plans.php:790
+msgid ""
+"If the system blocks the store managers access to pre-configured limits, "
+"your customer will have a direct channel with you."
+msgstr ""
+
+#: wc-manage-store-plans.php:764
+msgid ""
+"If you only exist as an administrator on this WordPress you will "
+"automatically have all permissions."
+msgstr ""
+
+#: wc-manage-store-plans.php:586 wc-manage-store-plans.php:707
+msgid "Monthly Traffic"
+msgstr ""
+
+#: wc-manage-store-plans.php:580
+msgid "Plans Settings"
+msgstr ""
+
+#: wc-manage-store-plans.php:617
+msgid "Plans Settings Date"
+msgstr ""
+
+#: wc-manage-store-plans.php:266 wc-manage-store-plans.php:444
+msgid "Plans Shop for WooCommerce"
+msgstr ""
+
+#: wc-manage-store-plans.php:583 wc-manage-store-plans.php:654
+msgid "Product Limit"
+msgstr ""
+
+#: wc-manage-store-plans.php:183
+msgid "Product Panel"
+msgstr ""
+
+#: wc-manage-store-plans.php:678
+msgid "Published Products"
+msgstr ""
+
+#: wc-manage-store-plans.php:382
+msgid "Return to Product List"
+msgstr ""
+
+#: wc-manage-store-plans.php:636 wc-manage-store-plans.php:689
+#: wc-manage-store-plans.php:742 wc-manage-store-plans.php:810
+msgid "Save Editions"
+msgstr ""
+
+#: wc-manage-store-plans.php:771
+msgid "Select an Administrator"
+msgstr ""
+
+#: wc-manage-store-plans.php:459
+msgid "Settings"
+msgstr ""
+
+#: wc-manage-store-plans.php:551
+msgid "Success! Data were updates successfully!"
+msgstr ""
+
+#: wc-manage-store-plans.php:786
+msgid "Super Administrator Email"
+msgstr ""
+
+#: wc-manage-store-plans.php:723
+msgid "Total for this month"
+msgstr ""
+
+#: wc-manage-store-plans.php:122
+msgid "Total for this month:"
+msgstr ""
+
+#: wc-manage-store-plans.php:670
+msgid "Total Products"
+msgstr ""
+
+#: wc-manage-store-plans.php:589 wc-manage-store-plans.php:760
+msgid "User Permissions"
+msgstr ""
+
+#: wc-manage-store-plans.php:731
+msgid "Views"
+msgstr ""
+
+#: wc-manage-store-plans.php:122
+msgid "views"
+msgstr ""
+
+#. Name of the plugin
+msgid "WC Manage Store Plans for WooCommerce"
+msgstr ""
+
+#: wc-manage-store-plans.php:445 wc-manage-store-plans.php:541
+msgid "WooCommerce Plans"
+msgstr ""
